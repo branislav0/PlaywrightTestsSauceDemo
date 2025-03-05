@@ -9,10 +9,10 @@ Installation
    git clone https://github.com/YourUsername/PlaywrightTestsSauceDemo.git
    
 Install the necessary dependencies: To install the dependencies, use npm (assuming you have Node.js installed):
- 2. npm install
+2. npm install
  
 To run the tests using Playwright, use the following command:
-  3. npx playwright test
+3. npx playwright test
 
 Features
 The project includes tests for the following functionalities on the Sauce Labs demo page:
